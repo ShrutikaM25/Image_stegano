@@ -1,0 +1,31 @@
+body{
+    background-color:darkcyan;
+}
+
+h2{
+    text-align: center;
+}
+
+.encode{
+    border: 2px solid gray;
+    padding: 80px 70px;
+    margin: 5px;
+    border-radius: 5px;
+    width: 40px;
+    height: 30px;
+    background-color: blanchedalmond;
+    
+}
+
+.decode{
+    box-sizing: content-box;
+    border: 2px solid gray;
+    padding: 80px 70px;
+    margin: 5px;
+    border-radius: 5px;
+    width: 40px;
+    height: 30px;
+    background-color: blanchedalmond;
+    
+}
+
